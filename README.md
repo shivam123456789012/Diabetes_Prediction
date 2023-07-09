@@ -3,7 +3,8 @@ This repository contains code and resources for predicting Diabetes or not using
 # Objective
 The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
 # Techniques Used
-Data Cleaning, /n Data Visualization
+Data Cleaning, 
+Data Visualization,
 Machine Learning Modeling,
 # Algortihms Used
 Logistic Regression,
