@@ -3,21 +3,21 @@ This repository contains code and resources for predicting Diabetes or not using
 # Objective
 The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
 # Techniques Used
-Data Cleaning,<br>
-Data Visualization,
-Machine Learning Modeling
+1. Data Cleaning,<br>
+2. Data Visualization,<br>
+3. Machine Learning Modeling
 # Algortihms Used
-Logistic Regression,
-Support Vector Machine,
-KNN,
-Random Forest Classifier,
-Decision Tree Classifier,
-Xgboost
+1. Logistic Regression,<br>
+2. Support Vector Machine,<br>
+3. KNN,<br>
+4. Random Forest Classifier,<br>
+5. Decision Tree Classifier,<br>
+6. Xgboost
 # Packages and Tools Required
-Pandas,
-Matplotlib,
-Numpy,
-Scikit Learn,
-Jupyter Notebook
+1. Pandas,<br>
+2. Matplotlib,<br>
+3. Numpy,<br>
+4. Scikit Learn,<br>
+5. Jupyter Notebook
 # Conclusion
 After performing 5 different algorithms on the dataset, Random forest gave the best performance with 82% accuracy. So I decide to consider it for further evaluation.
