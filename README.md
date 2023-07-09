@@ -19,3 +19,5 @@ Matplotlib
 Numpy
 Scikit Learn
 Jupyter Notebook
+# Conclusion
+After performing 5 different algorithms on the dataset, Random forest gave the best performance with 82% accuracy. So I decide to consider it for further evaluation.
