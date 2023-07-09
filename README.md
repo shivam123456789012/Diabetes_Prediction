@@ -5,19 +5,19 @@ The objective of the dataset is to diagnostically predict whether or not a patie
 # Techniques Used
 Data Cleaning, 
 Data Visualization,
-Machine Learning Modeling,
+Machine Learning Modeling
 # Algortihms Used
 Logistic Regression,
 Support Vector Machine,
 KNN,
 Random Forest Classifier,
 Decision Tree Classifier,
-Xgboost,
+Xgboost
 # Packages and Tools Required
 Pandas,
 Matplotlib,
 Numpy,
 Scikit Learn,
-Jupyter Notebook,
+Jupyter Notebook
 # Conclusion
 After performing 5 different algorithms on the dataset, Random forest gave the best performance with 82% accuracy. So I decide to consider it for further evaluation.
