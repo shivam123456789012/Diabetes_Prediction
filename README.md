@@ -5,7 +5,7 @@ The objective of the dataset is to diagnostically predict whether or not a patie
 # Techniques Used
 Data Cleaning
 Data Visualization
-Machine Learning Modeling
+Machine Learning Modeling 
 # Algortihms Used
 Logistic Regression
 Support Vector Machine
